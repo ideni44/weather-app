@@ -1,0 +1,27 @@
+{
+  "name": "laba0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideni44/laba0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ideni44/laba0/issues"
+  },
+  "homepage": "https://github.com/ideni44/laba0#readme",
+  "dependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.4.0"
+  }
+}
